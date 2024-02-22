@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sadia Saleem</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align="right" alt="coding-sdi" width="400" src="![image](https://github.com/Sadia871/Sadia871/assets/124822836/5bb9305a-e086-4e9f-9e41-5a5cac5c35f9")
+<img align="right" alt="coding-sdi" width="400" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif")
 ">
+
 
 - 🔭 I’m currently working on **react**
 
